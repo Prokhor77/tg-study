@@ -1,0 +1,9 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "sqlite3": "^5.1.6",
+    "telegraf": "^4.15.0"
+  }
+}
